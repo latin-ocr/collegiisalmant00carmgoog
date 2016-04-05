@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./collegiisalmant00carmgoog_0008.png"; bbox 0 0 3647 5753; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1352 2471 2787 2545">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1352 2471 2787 2545">
+     <span class='ocr_line' id='line_1_1' title="bbox 1352 2471 2787 2545; baseline 0.027 -38"><span class='ocrx_word' id='word_1_1' title='bbox 1352 2471 1541 2510; x_wconf 56' lang='lat' dir='ltr'><strong>zmcn.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1596 2489 1666 2499; x_wconf 73' lang='lat'>—</span> <span class='ocrx_word' id='word_1_3' title='bbox 1713 2479 1785 2518; x_wconf 72' lang='lat' dir='ltr'>Ex</span> <span class='ocrx_word' id='word_1_4' title='bbox 1832 2482 2000 2524; x_wconf 65' lang='lat' dir='ltr'>Tx&#39;ms</span> <span class='ocrx_word' id='word_1_5' title='bbox 2046 2487 2425 2536; x_wconf 73' lang='lat' dir='ltr'>MARCHESSOU</span> <span class='ocrx_word' id='word_1_6' title='bbox 2485 2500 2787 2545; x_wconf 77' lang='lat' dir='ltr'>FILIORUM-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 3307 128 3470 205">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 3307 128 3470 205">
+     <span class='ocr_line' id='line_1_2' title="bbox 3307 128 3470 205; baseline 0.055 -27"><span class='ocrx_word' id='word_1_7' title='bbox 3307 128 3470 205; x_wconf 51' lang='grc' dir='ltr'>’ἠῢ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 3547 2952 3581 3420">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 3547 2952 3581 3420">
+     <span class='ocr_line' id='line_1_3' title="bbox 3547 2952 3581 3420; baseline 0 2333"><span class='ocrx_word' id='word_1_8' title='bbox 3547 2952 3581 3420; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 3359 5206 3581 5653">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 3359 5206 3581 5653">
+     <span class='ocr_line' id='line_1_4' title="bbox 3359 5206 3581 5653; baseline 0 100"><span class='ocrx_word' id='word_1_9' title='bbox 3359 5206 3581 5653; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
